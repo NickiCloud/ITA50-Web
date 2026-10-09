@@ -1,0 +1,53 @@
+[
+  {
+    "continent": "Europa",
+    "countries": [
+      {
+        "name": "Deutschland",
+        "cities": ["Berlin", "Hamburg", "München"]
+      },
+      {
+        "name": "Frankreich",
+        "cities": ["Paris", "Lyon", "Marseille"]
+      },
+      {
+        "name": "Spanien",
+        "cities": ["Madrid", "Barcelona", "Valencia"]
+      }
+    ]
+  },
+  {
+    "continent": "Asien",
+    "countries": [
+      {
+        "name": "Japan",
+        "cities": ["Tokio", "Osaka", "Kyoto"]
+      },
+      {
+        "name": "China",
+        "cities": ["Peking", "Shanghai", "Shenzhen"]
+      },
+      {
+        "name": "Indien",
+        "cities": ["Delhi", "Mumbai", "Bengaluru"]
+      }
+    ]
+  },
+  {
+    "continent": "Nordamerika",
+    "countries": [
+      {
+        "name": "USA",
+        "cities": ["New York", "Los Angeles", "Chicago"]
+      },
+      {
+        "name": "Kanada",
+        "cities": ["Toronto", "Vancouver", "Montreal"]
+      },
+      {
+        "name": "Mexiko",
+        "cities": ["Mexiko-Stadt", "Guadalajara", "Monterrey"]
+      }
+    ]
+  }
+]

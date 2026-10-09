@@ -1,0 +1,12 @@
+/*
+ * Nur ein bischen Style
+*/
+
+li {
+    list-style: none;
+}
+
+img {
+    border: 1px solid black;
+    border-radius: 30px;
+}
